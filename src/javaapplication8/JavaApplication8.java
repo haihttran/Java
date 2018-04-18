@@ -18,7 +18,7 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         //Create first input array
-        int[] array = new int[]{0, 1, 0, 1, 0, 1};
+        int[] array = new int[]{4, 8, 12, 16};
         //Print out the input array
         System.out.printf("%s %s", "Input array:", "\t");
         for (int i : array) {            
